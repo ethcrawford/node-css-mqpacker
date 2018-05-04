@@ -1,0 +1,14 @@
+{
+  "name": "node-css-mqpacker",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "index.js",
+  "author": "Ethan Crawford",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "css-mqpacker": "^6.0.2"
+  }
+}
